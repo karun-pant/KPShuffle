@@ -1,2 +1,2 @@
 # KPShuffle
-KP shuffle gets you and enhanced method to random shuffle your mutable array.
+KP shuffle gets you and enhanced method to random shuffle your mutable array. just download this the folder and then copy it to your project and then evey thing is easy, just import "NSMutableArray+KPShuffle.h" then NSMutableArray *shuffle = [[CentralGlobalData getObject].colorCodes mutableCopy]; here [CentralGlobalData getObject].colorCodes is and array of color codes needs shuffling, then all you need to do is to call [shuffle kpShuffle]; and the mutable array 'shuffle' is now shuffled using a randomizer.
